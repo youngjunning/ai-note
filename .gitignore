@@ -1,0 +1,12 @@
+# OS / editor
+.DS_Store
+*.swp
+*~
+
+# IDE metadata & sharing artifacts
+**/.tuyaopen/
+**/.share/
+**/.miniapp.bak.*/
+
+# Environment & secrets
+.env*

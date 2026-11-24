@@ -1,0 +1,40 @@
+{
+  "schemaVersion": 1,
+  "skills": {
+    "tuyaopen-start": {
+      "version": "2.0.3",
+      "catalogueIdentity": "[\"tuya/tuyaopen-ide-manifests\",\"legacy\"]",
+      "contentHash": "b0619293283b6c7681a9bf1a19e7a894f5892e4b14154997b51e4bb0da1d0ec6",
+      "mirrorContentHash": "b0619293283b6c7681a9bf1a19e7a894f5892e4b14154997b51e4bb0da1d0ec6",
+      "installedAt": "2026-11-23T19:22:38.378Z"
+    },
+    "tuyaopen-cloud": {
+      "version": "1.8.4",
+      "catalogueIdentity": "[\"tuya/tuyaopen-ide-manifests\",\"legacy\"]",
+      "contentHash": "d8007b4b85e81ce0c69a89e72879618785a3aa2f9fd83510c6a91a403f95d1d9",
+      "mirrorContentHash": "d8007b4b85e81ce0c69a89e72879618785a3aa2f9fd83510c6a91a403f95d1d9",
+      "installedAt": "2026-11-23T19:22:38.383Z"
+    },
+    "iot-product-workflow": {
+      "version": "2.2.3",
+      "catalogueIdentity": "[\"tuya/tuyaopen-ide-manifests\",\"legacy\"]",
+      "contentHash": "03794869fae8cc459978328e8c8aa4a4bdb3fbeeba21980a2519a6646b432961",
+      "mirrorContentHash": "03794869fae8cc459978328e8c8aa4a4bdb3fbeeba21980a2519a6646b432961",
+      "installedAt": "2026-11-23T19:22:38.386Z"
+    },
+    "tuyaopen-workflow-embedded-dev": {
+      "version": "2.3.3",
+      "catalogueIdentity": "[\"tuya/tuyaopen-ide-manifests\",\"legacy\"]",
+      "contentHash": "8b4b344d8c695d44a52880a94914a1fe5552083aed9e8663cfcdad63065a76ef",
+      "mirrorContentHash": "8b4b344d8c695d44a52880a94914a1fe5552083aed9e8663cfcdad63065a76ef",
+      "installedAt": "2026-11-23T19:22:38.392Z"
+    },
+    "miniapp-development-workflow": {
+      "version": "2.7.4",
+      "catalogueIdentity": "[\"tuya/tuyaopen-ide-manifests\",\"legacy\"]",
+      "contentHash": "29ffcaea4c69a70be4d2785c25d5bd994bf4ab7b17859e35dd0cd84faed2080b",
+      "mirrorContentHash": "29ffcaea4c69a70be4d2785c25d5bd994bf4ab7b17859e35dd0cd84faed2080b",
+      "installedAt": "2026-11-23T19:22:38.401Z"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/source/embedded",
+    "cmake.buildDirectory": "${workspaceFolder}/source/embedded/.build",
+    "C_Cpp.default.compileCommands": "${workspaceFolder}/source/embedded/.build/compile_commands.json",
+    "files.associations": {
+        "*.h": "c",
+        "*.c": "c"
+    },
+    "terminal.integrated.env.linux": {
+        "PATH": "/Users/zisheng/TuyaOpenIDE/projects/ai-note/.tuyaopen/ide/bin:${env:PATH}"
+    },
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/zisheng/TuyaOpenIDE/projects/ai-note/.tuyaopen/ide/bin:${env:PATH}"
+    },
+    "terminal.integrated.env.windows": {
+        "PATH": "\\Users\\zisheng\\TuyaOpenIDE\\projects\\ai-note\\.tuyaopen\\ide\\bin;${env:PATH}"
+    }
+}
